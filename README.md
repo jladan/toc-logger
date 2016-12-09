@@ -22,7 +22,7 @@ toc.log('Performing some longish task')
 toc.log()
 
 # Print out the log with times and messages
-toc.print()
+toc.print_log()
 ```
 
 Features
